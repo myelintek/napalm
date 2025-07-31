@@ -14,6 +14,7 @@ import napalm.nxos
 import napalm.nxos_ssh
 import napalm.pyIOSXR
 import napalm.nxapi_plumbing  # noqa
+import napalm.nvidia_cumulus
 
 # Verify Python Version that is running
 try:
